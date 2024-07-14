@@ -1,0 +1,9 @@
+1.git init
+2.git status - It will Modified file or Newly Added file To be Commit
+3.git branch - It will al the branches information
+4.git switch [Branch Name]
+5.git add . (It will add all changed files)
+6.git remote add origin <GitHub Link>
+7.git commit -m "Description" - It will Commit all the Modified or Newly Added file
+8.git push -u origin [Branch Name]
+
