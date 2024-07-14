@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e437260-fcd2-48a8-b6a6-698fdf13dc92" name="Changes" comment="Training Material" />
+    <list default="true" id="5e437260-fcd2-48a8-b6a6-698fdf13dc92" name="Changes" comment="Training Material">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tr/naga/corejava/collections/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720971843465</updated>
-      <workItem from="1720971844660" duration="2515000" />
+      <workItem from="1720971844660" duration="3229000" />
     </task>
     <task id="LOCAL-00001" summary="Training Material">
       <option name="closed" value="true" />
@@ -102,7 +104,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/tr/naga/corejava/collections/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
