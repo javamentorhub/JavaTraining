@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e437260-fcd2-48a8-b6a6-698fdf13dc92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Corejava" afterDir="false" />
-    </list>
+    <list default="true" id="5e437260-fcd2-48a8-b6a6-698fdf13dc92" name="Changes" comment="Training Material" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/javamentorhub/JavaTraining.git",
+    "accountId": "38844120-4dda-4241-95e7-dc213fc39fea"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -29,6 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "java",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/NaGa/JavaTraining/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,12 +59,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720971843465</updated>
-      <workItem from="1720971844660" duration="724000" />
+      <workItem from="1720971844660" duration="1038000" />
     </task>
+    <task id="LOCAL-00001" summary="Training Material">
+      <option name="closed" value="true" />
+      <created>1720972813612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720972813612</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Training Material" />
+    <option name="LAST_COMMIT_MESSAGE" value="Training Material" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
